@@ -1,9 +1,3 @@
-/*
- * This program is incomplete.  Currently, it is an editor for
- * defining polygons.  Eventually, I intended to create a system
- * for finding routes between points via movement between Polys.
- */
-
 ArrayList polys;
 ArrayList points;
 
